@@ -132,7 +132,7 @@ const Home = () => {
       <section className="py-20 bg-gradient-to-br from-salmon-600 to-salmon-800 text-white text-center">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl lg:text-5xl font-bold mb-8">Ready to book your visit?</h2>
-          <p className="text-salmon-200/70 text-lg mb-10 max-w-xl mx-auto">
+          <p className="text-white/80 text-lg mb-10 max-w-xl mx-auto">
             Schedule an appointment online today. We accept major HMOs and are ready to help with your healthcare needs.
           </p>
           <Link to="/book" className="bg-white text-salmon-700 px-10 py-5 rounded-full font-bold hover:bg-salmon-50 transition-all inline-block">

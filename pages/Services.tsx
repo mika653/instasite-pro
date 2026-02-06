@@ -16,7 +16,7 @@ const Services = () => {
     <div className="py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <ModularBadge label="Services Module" />
-        <h1 className="text-5xl font-bold mb-6">Medical Services</h1>
+        <h1 className="text-3xl sm:text-5xl font-bold mb-6">Medical Services</h1>
         <p className="text-xl text-stone-500 mb-16 max-w-2xl">
           Comprehensive healthcare solutions from general consultations to specialized diagnostics, all delivered with a patient-first approach.
         </p>

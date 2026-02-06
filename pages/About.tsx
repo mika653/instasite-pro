@@ -9,7 +9,7 @@ const About = () => {
   return (
     <div className="py-20 max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
       <ModularBadge label="Professional Profile Module" />
-      <h1 className="text-5xl font-bold mb-10">About Dr. Santos</h1>
+      <h1 className="text-3xl sm:text-5xl font-bold mb-10">About Dr. Santos</h1>
       <div className="prose prose-stone lg:prose-xl">
         <p className="text-xl text-stone-600 leading-relaxed mb-8">
           Dr. Maria Santos, MD, FCP, is a board-certified Internist dedicated to providing exceptional medical care for the Filipino community.

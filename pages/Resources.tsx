@@ -12,7 +12,7 @@ const Resources = () => {
     <div className="py-20">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <ModularBadge label="Resources Module" />
-        <h1 className="text-5xl font-bold mb-6">Patient Resources</h1>
+        <h1 className="text-3xl sm:text-5xl font-bold mb-6">Patient Resources</h1>
         <p className="text-xl text-stone-500 mb-16 max-w-2xl">
           Find answers to common questions about our practice, appointments, and policies.
         </p>

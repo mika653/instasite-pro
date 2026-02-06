@@ -31,8 +31,8 @@ const Contact = () => {
       <div className="bg-gradient-to-br from-salmon-600 to-salmon-700 text-white py-16 -mt-20 pt-36 mb-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <ModularBadge label="Booking Module" />
-          <h1 className="text-5xl font-bold mb-4">Book an Appointment</h1>
-          <p className="text-salmon-200/80 text-lg max-w-xl">
+          <h1 className="text-3xl sm:text-5xl font-bold mb-4">Book an Appointment</h1>
+          <p className="text-white/80 text-lg max-w-xl">
             Fill out the form below and our staff will confirm your appointment within 24 hours.
           </p>
         </div>

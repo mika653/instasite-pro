@@ -24,7 +24,7 @@ const Navbar = () => {
         <div className="flex justify-between h-20 items-center">
           <Link to="/" className="flex flex-col">
             <span className="serif text-xl font-bold text-stone-900 tracking-tight">InstaSite™ Pro</span>
-            <span className="text-[10px] uppercase tracking-[0.2em] text-stone-400 -mt-1 font-medium">Built to Convert</span>
+            <span className="text-[11px] uppercase tracking-[0.2em] text-stone-400 -mt-1 font-medium">Built to Convert</span>
           </Link>
 
           <div className="hidden md:flex space-x-8 items-center">
@@ -91,8 +91,8 @@ const Footer = () => (
             Providing premium medical care with a focus on trust, transparency, and patient comfort.
           </p>
           <div className="flex space-x-4">
-            <span className="text-[10px] font-bold text-stone-400 border border-stone-300 px-2 py-1 rounded">InstaSite™ Pro</span>
-            <span className="text-[10px] font-bold text-stone-400 border border-stone-300 px-2 py-1 rounded">CONVERSION READY</span>
+            <span className="text-[11px] font-bold text-stone-400 border border-stone-300 px-2 py-1 rounded">InstaSite™ Pro</span>
+            <span className="text-[11px] font-bold text-stone-400 border border-stone-300 px-2 py-1 rounded">CONVERSION READY</span>
           </div>
         </div>
         <div>

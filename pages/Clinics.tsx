@@ -10,7 +10,7 @@ const Clinics = () => {
     <div className="py-20">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <ModularBadge label="Clinics Module" />
-        <h1 className="text-5xl font-bold mb-6">Clinic Locations</h1>
+        <h1 className="text-3xl sm:text-5xl font-bold mb-6">Clinic Locations</h1>
         <p className="text-xl text-stone-500 mb-16 max-w-2xl">
           Visit us at two convenient locations in Metro Manila. Both clinics are equipped with modern diagnostic facilities.
         </p>
